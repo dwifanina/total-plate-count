@@ -1,6 +1,6 @@
 
 
->>> import streamlit as st
+
 ... 
 ... # Judul aplikasi
 ... st.title("Perhitungan Total Plate Count (TPC)")
